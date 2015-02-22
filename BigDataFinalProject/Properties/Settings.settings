@@ -1,0 +1,57 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BigDataFinalProject.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="JAVA_WIN_PATH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Java</Value>
+    </Setting>
+    <Setting Name="WIN_OUTPUT_PATH" Type="System.String" Scope="User">
+      <Value Profile="(Default)">output</Value>
+    </Setting>
+    <Setting Name="JAVA_MAIN_CLASS_NAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CanopyKMeansJob</Value>
+    </Setting>
+    <Setting Name="INPUT_WIN_PATH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">input</Value>
+    </Setting>
+    <Setting Name="CLOUDERA_PATH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CanopyKMeans</Value>
+    </Setting>
+    <Setting Name="INPUT_CLOUDERA_FOLDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">input</Value>
+    </Setting>
+    <Setting Name="JAVA_CLOUDERA_FOLDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Java</Value>
+    </Setting>
+    <Setting Name="CLOUDERA_OUTPUT_FOLDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">output</Value>
+    </Setting>
+    <Setting Name="CLASSES_FOLDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">classes</Value>
+    </Setting>
+    <Setting Name="JAR_NAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CanopyKMeans.jar</Value>
+    </Setting>
+    <Setting Name="MAP_REDUCE_FOLDER" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CanopyKMeans</Value>
+    </Setting>
+    <Setting Name="CLOUDERA_COMPILED_CLASS_PATH" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">/usr/lib/hadoop/*:/usr/lib/hadoop/client-0.20/*</Value>
+    </Setting>
+    <Setting Name="USER_NAME_FOR_HOST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">training</Value>
+    </Setting>
+    <Setting Name="PASSWORD_FOR_HOST" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">training</Value>
+    </Setting>
+    <Setting Name="PACKAGE_NAME" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">CanopyKMeans</Value>
+    </Setting>
+    <Setting Name="MAX_ROW_NUMBER_INPUT_FILE" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="IP_ADDRESS" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10.0.0.16</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

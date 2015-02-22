@@ -1,0 +1,11 @@
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\bin\Release\BigDataFinalProject.exe.config
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\bin\Release\BigDataFinalProject.exe
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\bin\Release\BigDataFinalProject.pdb
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\BigDataFinalProject.BigDataAnalyze.resources
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\BigDataFinalProject.Properties.Resources.resources
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\BigDataFinalProject.ReportForm.resources
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\BigDataFinalProject.csproj.GenerateResource.Cache
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\RdlCompile.cache
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\RdlCompile.compiled
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\BigDataFinalProject.exe
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\BigDataFinalProject.pdb
