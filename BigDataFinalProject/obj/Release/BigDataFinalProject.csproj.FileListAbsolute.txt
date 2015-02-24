@@ -9,3 +9,4 @@ C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\
 C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\RdlCompile.compiled
 C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\BigDataFinalProject.exe
 C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\BigDataFinalProject.pdb
+C:\Haim\Personal\College\BigData-Course\BigDataFinalProject\BigDataFinalProject\BigDataFinalProject\obj\Release\BigDataFinalProject.csprojResolveAssemblyReference.cache

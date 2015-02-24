@@ -172,7 +172,7 @@ namespace BigDataFinalProject.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("10.0.0.16")]
+        [global::System.Configuration.DefaultSettingValueAttribute("10.0.0.9")]
         public string IP_ADDRESS {
             get {
                 return ((string)(this["IP_ADDRESS"]));

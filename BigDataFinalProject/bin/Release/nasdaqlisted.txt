@@ -168,7 +168,7 @@ ANIK|Anika Therapeutics Inc. - Common Stock|Q|N|N|100
 ANIP|ANI Pharmaceuticals, Inc. - Common Stock|G|N|N|100
 ANSS|ANSYS, Inc. - Common Stock|Q|N|N|100
 ANTH|Anthera Pharmaceuticals, Inc. - Common Stock|G|N|N|100
-ANY|Sphere 3D Corp - Common Shares|G|N|N|100
+ANY|Sphere 3D Corporation - Common Shares|G|N|N|100
 AOSL|Alpha and Omega Semiconductor Limited - Common Shares|Q|N|N|100
 APDN|Applied DNA Sciences Inc - Common Stock|S|N|N|100
 APDNW|Applied DNA Sciences Inc - Warrant|S|N|N|100
@@ -1278,7 +1278,7 @@ HMTV|Hemisphere Media Group, Inc. - Class A Common Stock|G|N|N|100
 HNH|Handy & Harman Ltd. - Common Stock|S|N|N|100
 HNNA|Hennessy Advisors, Inc. - Common Stock|S|N|N|100
 HNRG|Hallador Energy Company - Common Stock|S|N|N|100
-HNSN|Hansen Medical, Inc. - Common Stock|G|N|D|100
+HNSN|Hansen Medical, Inc. - Common Stock|G|N|N|100
 HOFT|Hooker Furniture Corporation - Common Stock|Q|N|N|100
 HOLI|Hollysys Automation Technologies, Ltd. - Common Stock|Q|N|N|100
 HOLX|Hologic, Inc. - Common Stock|Q|N|N|100
@@ -1846,7 +1846,6 @@ NMIH|NMI Holdings Inc - Common Stock|G|N|N|100
 NMRX|Numerex Corp. - Class A Common Stock|Q|N|N|100
 NNBR|NN, Inc. - Common Stock|Q|N|N|100
 NPBC|National Penn Bancshares, Inc. - Common Stock|Q|N|N|100
-NPSP|NPS Pharmaceuticals, Inc. - Common Stock|Q|N|N|100
 NRCIA|National Research Corporation - Class A Common Stock|Q|N|N|100
 NRCIB|National Research Corporation - Common Stock|Q|N|N|100
 NRIM|Northrim BanCorp Inc - Common Stock|Q|N|N|100
@@ -1902,6 +1901,7 @@ NYMX|Nymox Pharmaceutical Corporation - Common Stock|S|N|D|100
 NYNY|Empire Resorts, Inc. - Common Stock|G|N|N|100
 OBAS|Optibase Ltd. - Ordinary Shares|G|N|N|100
 OBCI|Ocean Bio-Chem, Inc. - Common Stock|S|N|N|100
+OCAT|Ocata Therapeutics, Inc. - Common Stock|S|N|N|100
 OCC|Optical Cable Corporation - Common Stock|G|N|N|100
 OCFC|OceanFirst Financial Corp. - Common Stock|Q|N|N|100
 OCLR|Oclaro, Inc. - Common Stock|Q|N|N|100
@@ -2027,7 +2027,6 @@ PEGI|Pattern Energy Group Inc. - Class A Common Stock|Q|N|N|100
 PEIX|Pacific Ethanol, Inc. - Common Stock|S|N|N|100
 PENN|Penn National Gaming, Inc. - Common Stock|Q|N|N|100
 PENX|Penford Corporation - Common Stock|G|N|N|100
-PEOP|Peoples Federal Bancshares, Inc. - Common Stock|S|N|N|100
 PERF|Perfumania Holdings, Inc - Common Stock|S|N|N|100
 PERI|Perion Network Ltd - ordinary shares|Q|N|N|100
 PERY|Perry Ellis International Inc. - Common Stock|Q|N|N|100
@@ -2315,7 +2314,7 @@ SAIA|Saia, Inc. - Common Stock|Q|N|N|100
 SAJA|Sajan, Inc. - Common Stock|S|N|N|100
 SAL|Salisbury Bancorp, Inc. - Common Stock|S|N|N|100
 SALE|RetailMeNot, Inc. - Series 1 Common Stock|Q|N|N|100
-SALM|Salem Communications Corporation - Class A Common Stock|G|N|N|100
+SALM|Salem Media Group, Inc. - Class A Common Stock|G|N|N|100
 SAMG|Silvercrest Asset Management Group Inc. - Common Stock|G|N|N|100
 SANM|Sanmina Corporation - Common Stock|Q|N|N|100
 SANW|S&W Seed Company - Common Stock|S|N|N|100
@@ -2968,4 +2967,4 @@ ZVZZT|NASDAQ TEST STOCK|G|Y|N|100
 ZWZZT|NASDAQ TEST STOCK|S|Y|N|100
 ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100
-File Creation Time: 0220201521:33|||||
+File Creation Time: 0224201517:02|||||

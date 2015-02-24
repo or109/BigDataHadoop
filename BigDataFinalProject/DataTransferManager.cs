@@ -60,7 +60,7 @@ namespace BigDataFinalProject
             sshClient.CreateCommand(strCommand).Execute();
         }
 
-        public void TransferFilesAndAnalyze(string strHost, string strUserName, string strPassword, int K, int numOfStocks)
+        public void TransferFilesAndAnalyze(string strHost, string strUserName, string strPassword, int clusterNum, int stkNum)
         {
             this.hostname = strHost;
             this.userName = strUserName;
@@ -101,7 +101,7 @@ namespace BigDataFinalProject
 
                 // Run the MapReduce code in linxu
                 RunCommand("hadoop jar " + CLOUDERA_PATH + "/" + JAR_NAME + " " + PACKAGE_NAME + "." + JAVA_MAIN_CLASS_NAME
-                                         + " " + MAP_REDUCE_FOLDER + " " + K + " " + T1 + " " + T2 + " " + numOfStocks);
+                                         + " " + MAP_REDUCE_FOLDER + " " + clusterNum + " " + T1 + " " + T2 + " " + stkNum);
 
                 // Create output folder i linux (not in the hdfs)
                 RunCommand("mkdir " + CLOUDERA_PATH + "/" + CLOUDERA_OUTPUT_FOLDER);
