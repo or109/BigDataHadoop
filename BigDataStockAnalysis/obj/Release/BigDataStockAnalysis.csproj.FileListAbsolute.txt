@@ -1,0 +1,12 @@
+C:\BigDataProject\BigData\BigDataStockAnalysis\bin\Release\BigDataStockAnalysis.exe.config
+C:\BigDataProject\BigData\BigDataStockAnalysis\bin\Release\BigDataStockAnalysis.exe
+C:\BigDataProject\BigData\BigDataStockAnalysis\bin\Release\BigDataStockAnalysis.pdb
+C:\BigDataProject\BigData\BigDataStockAnalysis\obj\Release\BigDataStockAnalysis.csprojResolveAssemblyReference.cache
+C:\BigDataProject\BigData\BigDataStockAnalysis\obj\Release\BigDataStockAnalysis.BigDataForm.resources
+C:\BigDataProject\BigData\BigDataStockAnalysis\obj\Release\BigDataStockAnalysis.Properties.Resources.resources
+C:\BigDataProject\BigData\BigDataStockAnalysis\obj\Release\BigDataStockAnalysis.StockReportForm.resources
+C:\BigDataProject\BigData\BigDataStockAnalysis\obj\Release\BigDataStockAnalysis.csproj.GenerateResource.Cache
+C:\BigDataProject\BigData\BigDataStockAnalysis\obj\Release\RdlCompile.cache
+C:\BigDataProject\BigData\BigDataStockAnalysis\obj\Release\RdlCompile.compiled
+C:\BigDataProject\BigData\BigDataStockAnalysis\obj\Release\BigDataStockAnalysis.exe
+C:\BigDataProject\BigData\BigDataStockAnalysis\obj\Release\BigDataStockAnalysis.pdb
